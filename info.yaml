@@ -1,0 +1,15 @@
+name: John Doe
+age: 32
+email: john.doe@example.com
+hobbies:
+  - reading
+  - hiking
+  - playing video games
+address:
+  street: 123 Main St
+  city: Anytown
+  state: CA
+  zip: "12345"
+phone_numbers:
+  home: "555-555-1234"
+  work: "555-555-5678"
