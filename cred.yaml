@@ -1,70 +1,7 @@
 # Main Site Credentials
 database:
-  host: localhost
+  host: ************
   port: 3306
-  username: myusername
-  password: mypassword
-  database_name: mydatabase
-
-# Random Staff
-staff:
-  - name: John Doe
-    position: Manager
-    salary: 50000
-  - name: Jane Smith
-    position: Sales Representative
-    salary: 35000
-  - name: Bob Johnson
-    position: IT Specialist
-    salary: 45000
-  - name: Susan Lee
-    position: HR Coordinator
-    salary: 40000
-  - name: Tom Wilson
-    position: Customer Service Representative
-    salary: 30000
-  - name: Emily Davis
-    position: Marketing Coordinator
-    salary: 40000
-  - name: Mike Thompson
-    position: Accountant
-    salary: 45000
-  - name: Sarah Kim
-    position: Operations Manager
-    salary: 55000
-  - name: David Chen
-    position: Software Engineer
-    salary: 60000
-  - name: Lisa Wong
-    position: Graphic Designer
-    salary: 35000
-  - name: Kevin Lee
-    position: Data Analyst
-    salary: 50000
-  - name: Karen Brown
-    position: Customer Support Specialist
-    salary: 30000
-  - name: Tim Johnson
-    position: Project Manager
-    salary: 55000
-  - name: Amy Chen
-    position: Content Writer
-    salary: 35000
-  - name: James Kim
-    position: Quality Assurance Engineer
-    salary: 45000
-  - name: Angela Davis
-    position: Public Relations Manager
-    salary: 55000
-  - name: Brian Lee
-    position: Sales Manager
-    salary: 60000
-  - name: Rachel Kim
-    position: Web Developer
-    salary: 50000
-  - name: Peter Wong
-    position: Technical Support Engineer
-    salary: 40000
-  - name: Grace Lee
-    position: Social Media Manager
-    salary: 45000
+  username: ************
+  password: ************
+  database_name: ************
