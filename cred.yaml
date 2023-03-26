@@ -1,4 +1,3 @@
-# Main Site Credentials
 database:
   host: ************
   port: 3306
